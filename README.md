@@ -1,1 +1,1 @@
-Code sample for application.
+Code sample for application. Felix Frederking, 08.06.2026.
